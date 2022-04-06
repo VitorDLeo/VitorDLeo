@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **VitorDLeo/VitorDLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
